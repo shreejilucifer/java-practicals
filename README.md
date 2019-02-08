@@ -8,5 +8,6 @@ Check the Branches For All the Programs. Below are the Programs:
   - Servlet Hello World (Q.17)
   - Servlet Interface (Q.18)
   - Generic Abstract Class (Q.19)
+  - HTTPServlet Abstract Class (Q.20)
   
 The IDE Used For Development is IntelliJ IDEA Ultimate.
